@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 6rem;
+    background-color: #f3f8f2;
+    /* text-align: center; */
+}
+.logo{
+    font-size: 2.5rem;
+    color : #0A014F;
+}
+
+.hero{
+    background-color : #070707;
+    color: white;
+    min-height: calc(100vh - 6rem);
+    padding: 15px 5px;
+    /* text-align: center; */
+}
+
+.hero span{
+    color: red;
+    font-size: 1.5rem;
+}
+
+.hero-btn{
+    background-color: #326273 ;
+    color: #E0CA3C;
+    padding: 0.5rem;
+    margin-top: 10px;
+}
+
+.container{
+    margin: 2rem auto;
+}
